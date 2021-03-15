@@ -1,0 +1,12 @@
+h1, h2{
+    display:flex;
+    justify-content: center;
+}
+
+header{
+    color: red;
+}
+
+div {
+ border: solid;
+}
